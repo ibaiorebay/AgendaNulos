@@ -90,10 +90,6 @@
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CapaPresentacion\CapaPresentacion.csproj">
-      <Project>{01e7479b-14d6-42db-8953-a498ec2f09e4}</Project>
-      <Name>CapaPresentacion</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Entidades\Entidades.csproj">
       <Project>{d88626e4-7ed8-4142-9ed2-51846926ec02}</Project>
       <Name>Entidades</Name>

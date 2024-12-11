@@ -1,0 +1,197 @@
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\Agenda\AgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\Agenda\AgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\Agenda\AgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\Agenda\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\Agenda\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\Agenda\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\Agenda\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\Agenda\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\Agenda\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\Agenda\Agenda\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\Agenda\Agenda\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\Agenda\Agenda\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\Agenda\Agenda\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\Agenda\Agenda\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\Agenda\Agenda\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\Agenda\Agenda\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\Agenda\Agenda\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\Agenda\Agenda\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\Agenda\Agenda\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\Agenda\Agenda\CapaPresentacion\bin\Debug\Entidades.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\Agenda\Agenda\CapaPresentacion\bin\Debug\Servidores.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\Agenda\Agenda\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\Agenda\Agenda\CapaPresentacion\bin\Debug\Entidades.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\Agenda\Agenda\CapaPresentacion\bin\Debug\Servidores.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\Agenda\Agenda\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\Agenda\Agenda\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\Agenda\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\Agenda\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\Agenda\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\Agenda\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\Agenda\CapaPresentacion\bin\Debug\Entidades.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\Agenda\CapaPresentacion\bin\Debug\Servidores.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\Agenda\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\Agenda\CapaPresentacion\bin\Debug\Entidades.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\Agenda\CapaPresentacion\bin\Debug\Servidores.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\Agenda\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\Agenda\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\Agenda\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\Agenda\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\Agenda\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\Agenda\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\Agenda\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\Agenda\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\MiAgenda\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\MiAgenda\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\MiAgenda\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\MiAgenda\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\MiAgenda\CapaPresentacion\bin\Debug\Entidades.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\MiAgenda\CapaPresentacion\bin\Debug\Servidores.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\MiAgenda\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\MiAgenda\CapaPresentacion\bin\Debug\Entidades.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\MiAgenda\CapaPresentacion\bin\Debug\Servidores.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\MiAgenda\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\MiAgenda\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultas.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\MiAgenda\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\MiAgenda\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\MiAgenda\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\MiAgenda\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\MiAgenda\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\MiAgenda\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\MiAgenda\CapaPresentacion\bin\Debug\CapaPresentacionConsola.exe
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\MiAgenda\CapaPresentacion\bin\Debug\CapaPresentacionConsola.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\MiAgenda\CapaPresentacion\bin\Debug\CapaPresentacionConsola.exe.config
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\AgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\AgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\AgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\AgendaAlum\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\AgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacionConsola.exe
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\AgendaAlum\CapaPresentacion\bin\Debug\Entidades.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\AgendaAlum\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\AgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacionConsola.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\AgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacionConsola.exe.config
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\AgendaAlum\CapaPresentacion\bin\Debug\Entidades.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultas.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\AgendaAlum\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaContactos\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\maria\Desktop\AgendaContactos\AgendaContactos\AgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\maria\Desktop\AgendaContactos\AgendaContactos\AgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\maria\Desktop\AgendaContactos\AgendaContactos\AgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\maria\Desktop\AgendaContactos\AgendaContactos\AgendaAlum\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\maria\Desktop\AgendaContactos\AgendaContactos\AgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacionConsola.exe
+C:\Users\maria\Desktop\AgendaContactos\AgendaContactos\AgendaAlum\CapaPresentacion\bin\Debug\Entidades.dll
+C:\Users\maria\Desktop\AgendaContactos\AgendaContactos\AgendaAlum\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\maria\Desktop\AgendaContactos\AgendaContactos\AgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacionConsola.pdb
+C:\Users\maria\Desktop\AgendaContactos\AgendaContactos\AgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacionConsola.exe.config
+C:\Users\maria\Desktop\AgendaContactos\AgendaContactos\AgendaAlum\CapaPresentacion\bin\Debug\Entidades.pdb
+C:\Users\maria\Desktop\AgendaContactos\AgendaContactos\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\AgendaContactos\AgendaContactos\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultas.resources
+C:\Users\maria\Desktop\AgendaContactos\AgendaContactos\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\maria\Desktop\AgendaContactos\AgendaContactos\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\AgendaContactos\AgendaContactos\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\AgendaContactos\AgendaContactos\AgendaAlum\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\maria\Desktop\AgendaContactos\AgendaContactos\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\maria\Desktop\AgendaContactos\AgendaContactos\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaAlumYBD\AgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaAlumYBD\AgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaAlumYBD\AgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaAlumYBD\AgendaAlum\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaAlumYBD\AgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacionConsola.exe
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaAlumYBD\AgendaAlum\CapaPresentacion\bin\Debug\Entidades.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaAlumYBD\AgendaAlum\CapaPresentacion\bin\Debug\Servidores.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaAlumYBD\AgendaAlum\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaAlumYBD\AgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacionConsola.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaAlumYBD\AgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacionConsola.exe.config
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaAlumYBD\AgendaAlum\CapaPresentacion\bin\Debug\Entidades.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaAlumYBD\AgendaAlum\CapaPresentacion\bin\Debug\Servidores.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaAlumYBD\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaAlumYBD\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultas.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaAlumYBD\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaAlumYBD\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaAlumYBD\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaAlumYBD\AgendaAlum\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaAlumYBD\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaAlumYBD\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaSinNulos\AgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaSinNulos\AgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaSinNulos\AgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaSinNulos\AgendaAlum\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaSinNulos\AgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacionConsola.exe
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaSinNulos\AgendaAlum\CapaPresentacion\bin\Debug\Entidades.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaSinNulos\AgendaAlum\CapaPresentacion\bin\Debug\Servidores.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaSinNulos\AgendaAlum\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaSinNulos\AgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacionConsola.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaSinNulos\AgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacionConsola.exe.config
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaSinNulos\AgendaAlum\CapaPresentacion\bin\Debug\Entidades.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaSinNulos\AgendaAlum\CapaPresentacion\bin\Debug\Servidores.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaSinNulos\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaSinNulos\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultas.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaSinNulos\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaSinNulos\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaSinNulos\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaSinNulos\AgendaAlum\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaSinNulos\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\AgendaSinNulos\AgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\InakiSebastian\Desktop\2º DAM\ACCESO A DATOS\EXAMEN EV1\MiAgendaAlum\MiAgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\InakiSebastian\Desktop\2º DAM\ACCESO A DATOS\EXAMEN EV1\MiAgendaAlum\MiAgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\InakiSebastian\Desktop\2º DAM\ACCESO A DATOS\EXAMEN EV1\MiAgendaAlum\MiAgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\InakiSebastian\Desktop\2º DAM\ACCESO A DATOS\EXAMEN EV1\MiAgendaAlum\MiAgendaAlum\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\InakiSebastian\Desktop\2º DAM\ACCESO A DATOS\EXAMEN EV1\MiAgendaAlum\MiAgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacionConsola.exe
+C:\Users\InakiSebastian\Desktop\2º DAM\ACCESO A DATOS\EXAMEN EV1\MiAgendaAlum\MiAgendaAlum\CapaPresentacion\bin\Debug\Entidades.dll
+C:\Users\InakiSebastian\Desktop\2º DAM\ACCESO A DATOS\EXAMEN EV1\MiAgendaAlum\MiAgendaAlum\CapaPresentacion\bin\Debug\Servidores.dll
+C:\Users\InakiSebastian\Desktop\2º DAM\ACCESO A DATOS\EXAMEN EV1\MiAgendaAlum\MiAgendaAlum\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\InakiSebastian\Desktop\2º DAM\ACCESO A DATOS\EXAMEN EV1\MiAgendaAlum\MiAgendaAlum\CapaPresentacion\bin\Debug\Entidades.pdb
+C:\Users\InakiSebastian\Desktop\2º DAM\ACCESO A DATOS\EXAMEN EV1\MiAgendaAlum\MiAgendaAlum\CapaPresentacion\bin\Debug\Servidores.pdb
+C:\Users\InakiSebastian\Desktop\2º DAM\ACCESO A DATOS\EXAMEN EV1\MiAgendaAlum\MiAgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\InakiSebastian\Desktop\2º DAM\ACCESO A DATOS\EXAMEN EV1\MiAgendaAlum\MiAgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultas.resources
+C:\Users\InakiSebastian\Desktop\2º DAM\ACCESO A DATOS\EXAMEN EV1\MiAgendaAlum\MiAgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\InakiSebastian\Desktop\2º DAM\ACCESO A DATOS\EXAMEN EV1\MiAgendaAlum\MiAgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\InakiSebastian\Desktop\2º DAM\ACCESO A DATOS\EXAMEN EV1\MiAgendaAlum\MiAgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\InakiSebastian\Desktop\2º DAM\ACCESO A DATOS\EXAMEN EV1\MiAgendaAlum\MiAgendaAlum\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\InakiSebastian\Desktop\2º DAM\ACCESO A DATOS\EXAMEN EV1\MiAgendaAlum\MiAgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\InakiSebastian\Desktop\2º DAM\ACCESO A DATOS\EXAMEN EV1\MiAgendaAlum\MiAgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\MiAgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\MiAgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\MiAgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\MiAgendaAlum\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\MiAgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacionConsola.exe
+C:\MiAgendaAlum\CapaPresentacion\bin\Debug\Entidades.dll
+C:\MiAgendaAlum\CapaPresentacion\bin\Debug\Servidores.dll
+C:\MiAgendaAlum\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\MiAgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacionConsola.pdb
+C:\MiAgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacionConsola.exe.config
+C:\MiAgendaAlum\CapaPresentacion\bin\Debug\Entidades.pdb
+C:\MiAgendaAlum\CapaPresentacion\bin\Debug\Servidores.pdb
+C:\MiAgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\MiAgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultas.resources
+C:\MiAgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\MiAgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\MiAgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\MiAgendaAlum\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\MiAgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\MiAgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Lucia\Desktop\Acceso a Datos\MiAgendaAlumIñaki\MiAgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Lucia\Desktop\Acceso a Datos\MiAgendaAlumIñaki\MiAgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Lucia\Desktop\Acceso a Datos\MiAgendaAlumIñaki\MiAgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Lucia\Desktop\Acceso a Datos\MiAgendaAlumIñaki\MiAgendaAlum\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Lucia\Desktop\Acceso a Datos\MiAgendaAlumIñaki\MiAgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacionConsola.exe
+C:\Users\Lucia\Desktop\Acceso a Datos\MiAgendaAlumIñaki\MiAgendaAlum\CapaPresentacion\bin\Debug\Entidades.dll
+C:\Users\Lucia\Desktop\Acceso a Datos\MiAgendaAlumIñaki\MiAgendaAlum\CapaPresentacion\bin\Debug\Servidores.dll
+C:\Users\Lucia\Desktop\Acceso a Datos\MiAgendaAlumIñaki\MiAgendaAlum\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Lucia\Desktop\Acceso a Datos\MiAgendaAlumIñaki\MiAgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacionConsola.pdb
+C:\Users\Lucia\Desktop\Acceso a Datos\MiAgendaAlumIñaki\MiAgendaAlum\CapaPresentacion\bin\Debug\CapaPresentacionConsola.exe.config
+C:\Users\Lucia\Desktop\Acceso a Datos\MiAgendaAlumIñaki\MiAgendaAlum\CapaPresentacion\bin\Debug\Entidades.pdb
+C:\Users\Lucia\Desktop\Acceso a Datos\MiAgendaAlumIñaki\MiAgendaAlum\CapaPresentacion\bin\Debug\Servidores.pdb
+C:\Users\Lucia\Desktop\Acceso a Datos\MiAgendaAlumIñaki\MiAgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Lucia\Desktop\Acceso a Datos\MiAgendaAlumIñaki\MiAgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultas.resources
+C:\Users\Lucia\Desktop\Acceso a Datos\MiAgendaAlumIñaki\MiAgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Lucia\Desktop\Acceso a Datos\MiAgendaAlumIñaki\MiAgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Lucia\Desktop\Acceso a Datos\MiAgendaAlumIñaki\MiAgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\Desktop\Acceso a Datos\MiAgendaAlumIñaki\MiAgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Lucia\Desktop\Acceso a Datos\MiAgendaAlumIñaki\MiAgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Lucia\Desktop\Acceso a Datos\MiAgendaAlumIñaki\MiAgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

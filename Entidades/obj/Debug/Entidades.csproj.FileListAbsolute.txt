@@ -1,0 +1,12 @@
+C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\Entidades\bin\Debug\Entidades.dll
+C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\Entidades\bin\Debug\EntityFramework.dll
+C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\Entidades\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\Entidades\bin\Debug\EntityFramework.xml
+C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\Entidades\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\Entidades\obj\Debug\Entidades.csproj.Up2Date
+C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\Entidades\obj\Debug\Entidades.dll
+C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\Entidades\obj\Debug\Entidades.pdb

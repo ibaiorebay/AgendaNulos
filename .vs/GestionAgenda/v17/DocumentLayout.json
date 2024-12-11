@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ibail\\Documents\\DAM2\\Acceso a datos\\CapaPresentacion\\",
+  "WorkspaceRootPath": "C:\\Users\\ibail\\Documents\\DAM2\\Acceso a datos\\AgendaNulos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9300F03E-62FC-47A2-8404-D5626C5B9C07}|CapaDatos\\CapaDatos.csproj|c:\\users\\ibail\\documents\\dam2\\acceso a datos\\capapresentacion\\capadatos\\gestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9300F03E-62FC-47A2-8404-D5626C5B9C07}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\gestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D88626E4-7ED8-4142-9ED2-51846926EC02}|Entidades\\Entidades.csproj|c:\\users\\ibail\\documents\\dam2\\acceso a datos\\agendanulos\\entidades\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D88626E4-7ED8-4142-9ED2-51846926EC02}|Entidades\\Entidades.csproj|solutionrelative:entidades\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01E7479B-14D6-42DB-8953-A498EC2F09E4}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\ibail\\Documents\\DAM2\\Acceso a datos\\CapaPresentacion\\capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{01E7479B-14D6-42DB-8953-A498EC2F09E4}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EF738271-D53C-4B53-AB80-8E4A73C72E29}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\ibail\\documents\\dam2\\acceso a datos\\agendanulos\\capapresentacion\\frmconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF738271-D53C-4B53-AB80-8E4A73C72E29}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D88626E4-7ED8-4142-9ED2-51846926EC02}|Entidades\\Entidades.csproj|C:\\Users\\ibail\\Documents\\DAM2\\Acceso a datos\\CapaPresentacion\\entidades\\contactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D88626E4-7ED8-4142-9ED2-51846926EC02}|Entidades\\Entidades.csproj|C:\\Users\\ibail\\Documents\\DAM2\\Acceso a datos\\AgendaNulos\\entidades\\contactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D88626E4-7ED8-4142-9ED2-51846926EC02}|Entidades\\Entidades.csproj|solutionrelative:entidades\\contactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9300F03E-62FC-47A2-8404-D5626C5B9C07}|CapaDatos\\CapaDatos.csproj|C:\\Users\\ibail\\Documents\\DAM2\\Acceso a datos\\CapaPresentacion\\capadatos\\modeloestado.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9300F03E-62FC-47A2-8404-D5626C5B9C07}|CapaDatos\\CapaDatos.csproj|C:\\Users\\ibail\\Documents\\DAM2\\Acceso a datos\\AgendaNulos\\capadatos\\modeloestado.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9300F03E-62FC-47A2-8404-D5626C5B9C07}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\modeloestado.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9300F03E-62FC-47A2-8404-D5626C5B9C07}|CapaDatos\\CapaDatos.csproj|c:\\users\\ibail\\documents\\dam2\\acceso a datos\\agendanulos\\capadatos\\gestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9300F03E-62FC-47A2-8404-D5626C5B9C07}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\gestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,36 +90,51 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ibail\\Documents\\DAM2\\Acceso a datos\\AgendaNulos\\Entidades\\App.config",
+              "RelativeDocumentMoniker": "Entidades\\App.config",
+              "ToolTip": "C:\\Users\\ibail\\Documents\\DAM2\\Acceso a datos\\AgendaNulos\\Entidades\\App.config",
+              "RelativeToolTip": "Entidades\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-11T12:46:41.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\ibail\\Documents\\DAM2\\Acceso a datos\\CapaPresentacion\\CapaPresentacion\\Form1.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\Form1.cs",
-              "ToolTip": "C:\\Users\\ibail\\Documents\\DAM2\\Acceso a datos\\CapaPresentacion\\CapaPresentacion\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CapaPresentacion\\Form1.cs [Dise\u00F1o]",
+              "Title": "FrmConsultas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ibail\\Documents\\DAM2\\Acceso a datos\\AgendaNulos\\CapaPresentacion\\FrmConsultas.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmConsultas.cs",
+              "ToolTip": "C:\\Users\\ibail\\Documents\\DAM2\\Acceso a datos\\AgendaNulos\\CapaPresentacion\\FrmConsultas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmConsultas.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T18:11:24.454Z"
+              "WhenOpened": "2024-12-11T12:46:39.388Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Contactos.cs",
-              "DocumentMoniker": "C:\\Users\\ibail\\Documents\\DAM2\\Acceso a datos\\CapaPresentacion\\Entidades\\Contactos.cs",
+              "DocumentMoniker": "C:\\Users\\ibail\\Documents\\DAM2\\Acceso a datos\\AgendaNulos\\Entidades\\Contactos.cs",
               "RelativeDocumentMoniker": "Entidades\\Contactos.cs",
-              "ToolTip": "C:\\Users\\ibail\\Documents\\DAM2\\Acceso a datos\\CapaPresentacion\\Entidades\\Contactos.cs",
+              "ToolTip": "C:\\Users\\ibail\\Documents\\DAM2\\Acceso a datos\\AgendaNulos\\Entidades\\Contactos.cs",
               "RelativeToolTip": "Entidades\\Contactos.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T17:23:49.461Z"
+              "WhenOpened": "2024-12-06T17:23:49.461Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Gestion.cs",
-              "DocumentMoniker": "C:\\Users\\ibail\\Documents\\DAM2\\Acceso a datos\\CapaPresentacion\\CapaDatos\\Gestion.cs",
+              "DocumentMoniker": "C:\\Users\\ibail\\Documents\\DAM2\\Acceso a datos\\AgendaNulos\\CapaDatos\\Gestion.cs",
               "RelativeDocumentMoniker": "CapaDatos\\Gestion.cs",
-              "ToolTip": "C:\\Users\\ibail\\Documents\\DAM2\\Acceso a datos\\CapaPresentacion\\CapaDatos\\Gestion.cs",
+              "ToolTip": "C:\\Users\\ibail\\Documents\\DAM2\\Acceso a datos\\AgendaNulos\\CapaDatos\\Gestion.cs",
               "RelativeToolTip": "CapaDatos\\Gestion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAhAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T17:13:30.78Z",
               "EditorCaption": ""
@@ -124,13 +143,14 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ModeloEstado.Context.cs",
-              "DocumentMoniker": "C:\\Users\\ibail\\Documents\\DAM2\\Acceso a datos\\CapaPresentacion\\CapaDatos\\ModeloEstado.Context.cs",
+              "DocumentMoniker": "C:\\Users\\ibail\\Documents\\DAM2\\Acceso a datos\\AgendaNulos\\CapaDatos\\ModeloEstado.Context.cs",
               "RelativeDocumentMoniker": "CapaDatos\\ModeloEstado.Context.cs",
-              "ToolTip": "C:\\Users\\ibail\\Documents\\DAM2\\Acceso a datos\\CapaPresentacion\\CapaDatos\\ModeloEstado.Context.cs",
+              "ToolTip": "C:\\Users\\ibail\\Documents\\DAM2\\Acceso a datos\\AgendaNulos\\CapaDatos\\ModeloEstado.Context.cs",
               "RelativeToolTip": "CapaDatos\\ModeloEstado.Context.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T17:13:05.924Z"
+              "WhenOpened": "2024-12-06T17:13:05.924Z",
+              "EditorCaption": ""
             }
           ]
         }

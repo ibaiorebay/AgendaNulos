@@ -1,0 +1,15 @@
+C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\CapaDatos\bin\Debug\Entidades.dll
+C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\CapaDatos\bin\Debug\Entidades.pdb
+C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\CapaDatos\bin\Debug\Entidades.dll.config
+C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\CapaDatos\obj\Debug\CapaDatos.pdb
