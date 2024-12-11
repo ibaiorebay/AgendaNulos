@@ -1,0 +1,12 @@
+C:\Users\USUARIO\OneDrive\Escritorio\2DAM\ACCESO DATOS\PruebaServidores\Servidores\bin\Debug\Servidores.dll
+C:\Users\USUARIO\OneDrive\Escritorio\2DAM\ACCESO DATOS\PruebaServidores\Servidores\bin\Debug\Servidores.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\2DAM\ACCESO DATOS\PruebaServidores\Servidores\obj\Debug\Servidores.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\2DAM\ACCESO DATOS\PruebaServidores\Servidores\obj\Debug\Servidores.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\2DAM\ACCESO DATOS\PruebaServidores\Servidores\obj\Debug\Servidores.dll
+C:\Users\USUARIO\OneDrive\Escritorio\2DAM\ACCESO DATOS\PruebaServidores\Servidores\obj\Debug\Servidores.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\2DAM\ACCESO DATOS\UNIDAD1\PruebaServidores\Servidores\bin\Debug\Servidores.dll
+C:\Users\USUARIO\OneDrive\Escritorio\2DAM\ACCESO DATOS\UNIDAD1\PruebaServidores\Servidores\bin\Debug\Servidores.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\2DAM\ACCESO DATOS\UNIDAD1\PruebaServidores\Servidores\obj\Debug\Servidores.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\2DAM\ACCESO DATOS\UNIDAD1\PruebaServidores\Servidores\obj\Debug\Servidores.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\2DAM\ACCESO DATOS\UNIDAD1\PruebaServidores\Servidores\obj\Debug\Servidores.dll
+C:\Users\USUARIO\OneDrive\Escritorio\2DAM\ACCESO DATOS\UNIDAD1\PruebaServidores\Servidores\obj\Debug\Servidores.pdb
