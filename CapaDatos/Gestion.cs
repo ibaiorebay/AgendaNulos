@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace CapaDatos
 {
     using Entidades;
+    using Servidores;
     using System.Runtime.CompilerServices;
 
     public class Gestion
@@ -17,8 +18,11 @@ namespace CapaDatos
             
             try
             {
-                context = new AgendaEntities();
-            }catch (Exception ex)
+                string servidor = Servidor.ServidorActual();
+                string cadenaConexion = $@"metadata = res://*/ModeloAgenda.csdl|res://*/ModeloAgenda.ssdl|res://*/ModeloAgenda.msl; provider = System.Data.SqlClient;provider connection string= 'data source={servidor};initial catalog=Agenda;integrated security=True;encrypt=True;trustservercertificate=True;MultipleActiveResultSets=True;App=EntityFramework'";
+                context = new AgendaEntities(cadenaConexion);
+            }
+            catch (Exception ex)
             {
                 Console.WriteLine(ex);
             }

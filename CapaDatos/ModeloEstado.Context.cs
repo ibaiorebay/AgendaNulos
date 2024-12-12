@@ -16,8 +16,8 @@ namespace CapaDatos
     
     public partial class AgendaEntities : DbContext
     {
-        public AgendaEntities()
-            : base("name=AgendaEntities")
+        public AgendaEntities(string cadConexion)
+             : base(cadConexion)
         {
         }
     

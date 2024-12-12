@@ -94,6 +94,10 @@
       <Project>{d88626e4-7ed8-4142-9ed2-51846926ec02}</Project>
       <Name>Entidades</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Servidores\Servidores.csproj">
+      <Project>{41a0bf92-2ec5-4796-a4db-bd52b3de843d}</Project>
+      <Name>Servidores</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

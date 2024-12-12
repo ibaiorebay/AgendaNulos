@@ -214,3 +214,5 @@ C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaPresentacio
 C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaPresentacion\bin\Debug\Entidades.dll.config
 C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaPresentacion\bin\Debug\EntityFramework.xml
 C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaPresentacion\bin\Debug\Servidores.dll
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaPresentacion\bin\Debug\Servidores.pdb
