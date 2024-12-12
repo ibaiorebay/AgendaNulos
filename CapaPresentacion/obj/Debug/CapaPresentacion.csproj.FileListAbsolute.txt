@@ -195,3 +195,22 @@ C:\Users\Lucia\Desktop\Acceso a Datos\MiAgendaAlumIñaki\MiAgendaAlum\CapaPresen
 C:\Users\Lucia\Desktop\Acceso a Datos\MiAgendaAlumIñaki\MiAgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
 C:\Users\Lucia\Desktop\Acceso a Datos\MiAgendaAlumIñaki\MiAgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.exe
 C:\Users\Lucia\Desktop\Acceso a Datos\MiAgendaAlumIñaki\MiAgendaAlum\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultas.resources
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaPresentacion\bin\Debug\Entidades.dll
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaPresentacion\bin\Debug\EntityFramework.dll
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaPresentacion\bin\Debug\CapaDatos.dll.config
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaPresentacion\bin\Debug\Entidades.pdb
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaPresentacion\bin\Debug\Entidades.dll.config
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaPresentacion\bin\Debug\EntityFramework.xml
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete

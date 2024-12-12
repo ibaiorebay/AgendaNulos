@@ -1,5 +1,5 @@
 ﻿using Entidades;
-using CapaPresentacionConsola;
+using CapaDatos;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -20,7 +20,7 @@ namespace CapaPresentacion
     public partial class FrmConsultas : Form
     {
 
-        GestionMiAgenda gestion = new GestionMiAgenda();
+        Gestion gestion = new Gestion();
         public FrmConsultas()
         {
             InitializeComponent();
@@ -36,7 +36,7 @@ namespace CapaPresentacion
             lblMensaje.Text = "";
 
 
-            List<Contacto> listaContactos = gestion.MostrarContactos(out string errores);
+            List<Contactos> listaContactos = gestion.ContactosAlfabeticamente(out string errores);
 
             if (!int.TryParse(txtIdContacto.Text,out int id))
             {
@@ -55,7 +55,7 @@ namespace CapaPresentacion
             }
             else
             {
-                lblMensaje.Text = $"TELEFONOS DEL CONTACTO CON IDENTIFICADOR {id}: '{contacto.Nombre}' del Grupo '{contacto.Grupo}'";
+                lblMensaje.Text = $"TELEFONOS DEL CONTACTO CON IDENTIFICADOR {id}: '{contacto.Nombre}' del Grupo '{contacto.IdGrupo}'";
 
             }
 
@@ -76,7 +76,7 @@ namespace CapaPresentacion
             dgvContactos.DataSource = "";
             lblMensaje.Text = "";
 
-            List<Contacto> listaContactos = gestion.MostrarContactos(out string errores);
+            List<Contactos> listaContactos = gestion.ContactosAlfabeticamente(out string errores);
             if (errores != "")
             {
                 MessageBox.Show(errores);
@@ -90,7 +90,7 @@ namespace CapaPresentacion
                                              contacto.IdContacto,
                                              contacto.Nombre,
                                              contacto.Email,
-                                             contacto.Grupo,
+                                             contacto.IdGrupo,
                                              CantTelefonos = contacto.Telefonos != null ? contacto.Telefonos.Count:0,
                                              PrimerTelefono = contacto.Telefonos != null ? (from telf in contacto.Telefonos select telf.Numero).First() : "No hay telefonos"
                                          };
@@ -107,7 +107,7 @@ namespace CapaPresentacion
             dgvContactos.DataSource = "";
             lblMensaje.Text = "";
 
-            List<Contacto> listaContactos = gestion.MostrarContactos(out string errores);
+            List<Contactos> listaContactos = gestion.ContactosAlfabeticamente(out string errores);
             if (errores != "")
             {
                 MessageBox.Show(errores);
@@ -117,7 +117,7 @@ namespace CapaPresentacion
 
 
 
-            var lista = listaContactos.Where(contacto => contacto.Telefonos.Any(telf => telf.Numero == txtNumeroTelefono.Text)).Select(cont => new {cont.Nombre,CantTelefono=cont.Telefonos.Count,cont.Grupo });
+            var lista = listaContactos.Where(contacto => contacto.Telefonos.Any(telf => telf.Numero == txtNumeroTelefono.Text)).Select(cont => new {cont.Nombre,CantTelefono=cont.Telefonos.Count,cont.IdGrupo });
 
             if (lista.Count() == 0)
             {

@@ -10,3 +10,15 @@ C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\Entidades\obj\Debug\Ent
 C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\Entidades\obj\Debug\Entidades.csproj.Up2Date
 C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\Entidades\obj\Debug\Entidades.dll
 C:\Users\ibail\Documents\DAM2\Acceso a datos\AgendaNulos\Entidades\obj\Debug\Entidades.pdb
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\Entidades\bin\Debug\Entidades.dll
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\Entidades\bin\Debug\EntityFramework.dll
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\Entidades\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\Entidades\bin\Debug\EntityFramework.xml
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\Entidades\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\Entidades\obj\Debug\Entidades.dll
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\Entidades\obj\Debug\Entidades.pdb
