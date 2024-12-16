@@ -16,3 +16,9 @@ C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\Servidores\obj\
 C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\Servidores\obj\Debug\Servidores.csproj.CoreCompileInputs.cache
 C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\Servidores\obj\Debug\Servidores.dll
 C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\Servidores\obj\Debug\Servidores.pdb
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\Servidores\bin\Debug\Servidores.dll.config
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\Servidores\bin\Debug\EntityFramework.dll
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\Servidores\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\Servidores\bin\Debug\EntityFramework.xml
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\Servidores\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\Servidores\obj\Debug\Servidores.csproj.CopyComplete

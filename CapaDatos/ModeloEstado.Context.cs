@@ -16,9 +16,9 @@ namespace CapaDatos
     
     public partial class AgendaEntities : DbContext
     {
-        public AgendaEntities(string cadConexion)
-             : base(cadConexion)
+        public AgendaEntities(string cadConexion): base(cadConexion)
         {
+
         }
     
         protected override void OnModelCreating(DbModelBuilder modelBuilder)

@@ -30,3 +30,4 @@ C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaDatos\obj\D
 C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaDatos\obj\Debug\CapaDatos.pdb
 C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaDatos\bin\Debug\Servidores.dll
 C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaDatos\bin\Debug\Servidores.pdb
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\CapaDatos\bin\Debug\Servidores.dll.config

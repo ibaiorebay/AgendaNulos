@@ -24,3 +24,4 @@ C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\Entidades\obj\D
 C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\Entidades\obj\Debug\Entidades.pdb
 C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\Entidades\bin\Debug\Servidores.dll
 C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\Entidades\bin\Debug\Servidores.pdb
+C:\Users\javie\OneDrive\Escritorio\DAM2\Acceso Datos\AgendaNulos\Entidades\bin\Debug\Servidores.dll.config
