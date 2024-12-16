@@ -398,3 +398,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/.vs/GestionAgenda/v17/.suo
+/CapaPresentacion/obj/Debug/CapaPresentacion.csproj.AssemblyReference.cache
+/CapaPresentacion/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/Servidores/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/Servidores/obj/Debug/Servidores.csproj.AssemblyReference.cache
