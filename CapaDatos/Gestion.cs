@@ -42,5 +42,25 @@ namespace CapaDatos
             }
             
         }
+
+        public Contactos BuscarContacto(int id, out string msg)
+        {
+            msg = "";
+            try
+            {
+                return context.Contactos.Find(id);
+            }
+            catch (Exception ex)
+            {
+                msg = ex.Message;
+                return null;
+            }
+        }
+
+        public void DarDeAltaGrupo()
+        {
+
+        }
+
     }
 }
