@@ -19,7 +19,7 @@ namespace CapaDatos
             try
             {
                 string servidor = Servidor.ServidorActual();
-                string cadenaConexion = $@"metadata = res://*/ModeloAgenda.csdl|res://*/ModeloAgenda.ssdl|res://*/ModeloAgenda.msl; provider = System.Data.SqlClient;provider connection string= 'data source={servidor};initial catalog=Agenda;integrated security=True;encrypt=True;trustservercertificate=True;MultipleActiveResultSets=True;App=EntityFramework'";
+                string cadenaConexion = $@"metadata = res://*/ModeloEstado.csdl|res://*/ModeloEstado.ssdl|res://*/ModeloEstado.msl; provider = System.Data.SqlClient;provider connection string= 'data source={servidor};initial catalog=Agenda;integrated security=True;encrypt=True;trustservercertificate=True;MultipleActiveResultSets=True;App=EntityFramework'";
                 context = new AgendaEntities(cadenaConexion);
             }
             catch (Exception ex)

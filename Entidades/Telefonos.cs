@@ -14,6 +14,7 @@ namespace Entidades
     
     public partial class Telefonos
     {
+        public Telefonos() { }
         public Telefonos(int idContacto, string numero, string descripcion, Contactos contactos)
         {
             IdContacto = idContacto;
